@@ -1,0 +1,70 @@
+{
+  "profile": {
+    "name": "@deekshithvodela",
+    "handle": "deekshithvodela",
+    "bio": "Graphic Designer",
+    "avatar": "./assets/images/avatar.jpeg"
+  },
+  "links": [
+    {
+      "id": "behance-portfolio",
+      "label": "View my creative portfolio",
+      "url": "https://www.behance.net/deekshithvodela",
+      "icon": "brand-behance",
+      "openInNewTab": true
+    },
+    {
+      "id": "top-project-web-design",
+      "label": "TOP Project | Web Design",
+      "url": "https://deekshithvodela.github.io/top-dashboard/html/pages/recipes.html",
+      "icon": "app-window",
+      "openInNewTab": true
+    },
+    {
+      "id": "substack-blog",
+      "label": "My Blog on Substack",
+      "url": "https://deekshithvodela.substack.com/",
+      "icon": "bookmark",
+      "openInNewTab": true
+    },
+    {
+      "id": "orcid-profile",
+      "label": "ORCID profile",
+      "url": "https://orcid.org/0009-0000-5535-9828",
+      "icon": "map-question",
+      "openInNewTab": true
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Substack",
+      "url": "https://deekshithvodela.substack.com/",
+      "icon": "social-substack",
+      "openInNewTab": true
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/deekshith.vodela",
+      "icon": "social-instagram",
+      "openInNewTab": true
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deekshithvodela",
+      "icon": "social-linkedin",
+      "openInNewTab": true
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://youtube.com/@deekshithvodela",
+      "icon": "social-youtube",
+      "openInNewTab": true
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/deekshithvodela",
+      "icon": "social-github",
+      "openInNewTab": true
+    }
+  ]
+}
